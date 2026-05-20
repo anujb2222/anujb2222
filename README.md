@@ -23,9 +23,3 @@ I love building scalable and efficient web applications.
 </p>
 
 ---
-
-## 🔥 GitHub Streak
-
-<p align="center">
-<img src="https://streak-stats.demolab.com?user=anujb2222&theme=tokyonight" />
-</p>
